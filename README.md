@@ -1,4 +1,4 @@
-# LeetCode Problem Solutions by [Your Name]
+# LeetCode Problem Solutions by Kernel-rb
 
 This repository contains solutions to various LeetCode problems in different programming languages. You can navigate to specific problem directories for code implementations.
 
