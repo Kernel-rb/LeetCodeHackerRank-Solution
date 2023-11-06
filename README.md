@@ -1,3 +1,6 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
 # LeetCode Problem Solutions by Kernel-rb
 
 This repository contains solutions to various LeetCode problems in different programming languages. You can navigate to specific problem directories for code implementations.
@@ -27,3 +30,7 @@ This repository contains solutions to various LeetCode problems in different pro
 <a href="https://www.instagram.com/kernel.rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaivardhan-b" height="30" width="40" /></a>
 <a href="https://leetcode.com/Kernel-rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaivardhan-bhola" height="30" width="40" /></a>
 </p>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
