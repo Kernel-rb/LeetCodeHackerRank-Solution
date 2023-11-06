@@ -7,8 +7,7 @@
   <h2>LeetCode Problem Solutions by Kernel-rb</h2>
 </div>
 
-This repository contains solutions to various LeetCode problems in different programming languages. You can navigate to specific problem directories for code implementations.
-
+*This repository contains solutions to various LeetCode problems in different programming languages. You can navigate to specific problem directories for code implementations.*
 <div align="center">
   <h2>Directory Structure</h2>
 </div>
