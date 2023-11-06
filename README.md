@@ -3,7 +3,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-# LeetCode Problem Solutions by Kernel-rb
+## LeetCode Problem Solutions by Kernel-rb
 
 This repository contains solutions to various LeetCode problems in different programming languages. You can navigate to specific problem directories for code implementations.
 
