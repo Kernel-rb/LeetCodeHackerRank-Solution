@@ -9,24 +9,32 @@
 
 This repository contains solutions to various LeetCode problems in different programming languages. You can navigate to specific problem directories for code implementations.
 
-## Directory Structure
+<div align="center">
+  <h2>Directory Structure</h2>
+</div>
 
 - ![Algorithmes Icon](./icons/algo.svg) **Algorithmes**
   - [Add Two Integers](./src/algorithmes/Add%20Two%20Integers)
   - [Length of Last Word](./src/algorithmes/Length%20of%20Last%20Word)
-  - 
-## Additional Information
+
+<div align="center">
+  <h2>Additional Information</h2>
+</div>
 
 - Insert your own content, explanations, or descriptions here. This is where you can provide any extra information or context you'd like to add to your README.
 
-## Code Implementations
+<div align="center">
+  <h2>Code Implementations</h2>
+</div>
 
 | Problem Name                | JavaScript                   | Python                       | Rust                         |
 | ---------------------------- | ------------------------------ | ----------------------------- | ---------------------------- |
 | Add Two Integers             | <img src="./icons/javascript.svg" width="16" height="16"> [JavaScript](./src/algorithmes/Add%20Two%20Integers/src.js) | <img src="./icons/python.svg" width="16" height="16"> [Python](./src/algorithmes/Add%20Two%20Integers/src.py) | <img src="./icons/Rust.png" width="16" height="16"> [Rust](./src/algorithmes/Add%20Two%20Integers/src.rs) |
 | Length of Last Word         | <img src="./icons/javascript.svg" width="16" height="16"> [JavaScript](./src/algorithmes/Length%20of%20Last%20Word/src.js) | <img src="./icons/python.svg" width="16" height="16"> [Python](./src/algorithmes/Length%20of%20Last%20Word/src.py) | <img src="./icons/Rust.png" width="16" height="16"> [Rust](./src/algorithmes/Length%20of%20Last%20Word/src.rs) |
 
-## Author
+<div align="center">
+  <h2> Author</h2>
+</div>
 
 <div> 
 <p align="center">
