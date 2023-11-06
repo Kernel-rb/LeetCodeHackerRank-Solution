@@ -7,7 +7,6 @@ This repository contains solutions to various LeetCode problems in different pro
 - ![Algorithmes Icon](./icons/algo.svg) **Algorithmes**
   - [Add Two Integers](./src/algorithmes/Add%20Two%20Integers)
   - [Length of Last Word](./src/algorithmes/Length%20of%20Last%20Word)
-  - 
 ## Additional Information
 
 - Insert your own content, explanations, or descriptions here. This is where you can provide any extra information or context you'd like to add to your README.
