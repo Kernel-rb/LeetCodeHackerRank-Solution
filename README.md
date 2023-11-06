@@ -1,10 +1,16 @@
-# LeetCode Problem Solutions
+# LeetCode Problem Solutions by [Your Name]
 
 This repository contains solutions to various LeetCode problems in different programming languages. You can navigate to specific problem directories for code implementations.
 
+## Author
+
+- [Your Name](https://www.linkedin.com/in/your-linkedin-profile/) - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [Your Name](https://leetcode.com/your-leetcode-username/) - [LeetCode](https://leetcode.com/your-leetcode-username/)
+- [Your Name](https://github.com/your-github-username) - [GitHub](https://github.com/your-github-username)
+
 ## Directory Structure
 
-- ![Algorithmes Icon](./icons/algo.svg) **Algorithmes** 
+- ![Algorithmes Icon](./icons/algo.svg) **Algorithmes**
   - [Add Two Integers](./src/algorithmes/Add%20Two%20Integers)
   - [Length of Last Word](./src/algorithmes/Length%20of%20Last%20Word)
 
