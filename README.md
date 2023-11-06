@@ -3,7 +3,7 @@
 </a>
 
 <div align="center">
-  <h2><i>LeetCode Problem Solutions by Kernel-rb</i></h2>
+<h2><i>LeetCode Problem Solutions by <span style="color: green;">Kernel-rb</span></i></h2>
 </div>
 
 <i>This repository contains solutions to various LeetCode problems in different programming languages. You can navigate to specific problem directories for code implementations.</i>
