@@ -13,14 +13,14 @@
 </div>
 
 - ![Algorithmes Icon](./icons/algo.svg) **Algorithmes**
-  - [Add Two Integers](./src/algorithmes/Add%20Two%20Integers)
-  - [Length of Last Word](./src/algorithmes/Length%20of%20Last%20Word)
+  - *[Add Two Integers](./src/algorithmes/Add%20Two%20Integers)*
+  - *[Length of Last Word](./src/algorithmes/Length%20of%20Last%20Word)*
 
 <div align="center">
   <h2>Additional Information</h2>
 </div>
 
-- Insert your own content, explanations, or descriptions here. This is where you can provide any extra information or context you'd like to add to your README.
+- *Insert your own content, explanations, or descriptions here. This is where you can provide any extra information or context you'd like to add to your README.*
 
 <div align="center">
   <h2>Code Implementations</h2>
