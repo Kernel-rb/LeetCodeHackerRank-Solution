@@ -3,11 +3,13 @@
 This repository contains solutions to various LeetCode problems in different programming languages. You can navigate to specific problem directories for code implementations.
 
 ## Author
-
-- [Your Name](https://www.linkedin.com/in/your-linkedin-profile/) - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Your Name](https://leetcode.com/your-leetcode-username/) - [LeetCode](https://leetcode.com/your-leetcode-username/)
-- [Your Name](https://github.com/your-github-username) - [GitHub](https://github.com/your-github-username)
-
+<div> 
+<p align="center">
+<a href="https://twitter.com/kernelrb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bholajaivardhan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saif-matab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaivardhan-bhola-773944214" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kernel.rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaivardhan-b" height="30" width="40" /></a>
+<a href="https://leetcode.com/Kernel-rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaivardhan-bhola" height="30" width="40" /></a>
+</p>
 ## Directory Structure
 
 - ![Algorithmes Icon](./icons/algo.svg) **Algorithmes**
