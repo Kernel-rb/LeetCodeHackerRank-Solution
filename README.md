@@ -4,7 +4,7 @@ This repository contains solutions to various LeetCode problems in different pro
 
 ## Directory Structure
 
-- ![Algorithmes Icon](./icons/algo.svg) **Algorithmes** (Algorithmic problems)
+- ![Algorithmes Icon](./icons/algo.svg) **Algorithmes** 
   - [Add Two Integers](./src/algorithmes/Add%20Two%20Integers)
   - [Length of Last Word](./src/algorithmes/Length%20of%20Last%20Word)
 
