@@ -12,7 +12,7 @@
   <h2>Directory Structure</h2>
 </div>
 
-- ![Algorithmes Icon](./icons/algo.svg) **Algorithmes**
+-* ![Algorithmes Icon](./icons/algo.svg) **Algorithmes** . *
   - *[Add Two Integers](./src/algorithmes/Add%20Two%20Integers)*
   - *[Length of Last Word](./src/algorithmes/Length%20of%20Last%20Word)*
 
